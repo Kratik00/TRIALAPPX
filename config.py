@@ -1,3 +1,3 @@
-api_id = "enter your api_id"
-api_hash = "enter your api_hash"
-bot_token = "enter your bot token"
+api_id = "25318125"
+api_hash = "b29fb6a928e8b8a3308f8c2d3ba9cfb0"
+bot_token = ""

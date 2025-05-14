@@ -1,10 +1,10 @@
 services:
   - type: web
-    name: LUCIFER
+    name: trialappx
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/Kratik00/lucifer
+    repo: https://github.com/Kratik00/trialappx
     branch: main
     autoDeploy: false
     envVars:
